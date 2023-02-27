@@ -5,7 +5,7 @@ ___
 
 - 📚 My stack: JavaScript, React, HTML, CSS, Express, Node.JS, PostgreSQL
 - ⚒️ Tools: Bootstrap, NPM, Chart.js, Github, Babel, Webpack
-- 💻 I’m currently studying JavaScript, React, and TypeScript
+- 💻 I’m currently studying C#, and JavaScript
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nolanreda/) and Email: nolan.reda@gmail.com
 - 😄 Pronouns: He/Him
 - 🏕️ Fun fact: I love the mountains. I recently spent 4 days backpacking in Yosemite, it was such a great time!
